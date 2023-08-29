@@ -20,3 +20,23 @@
 - Can host on HTTPs as well
 - Tree shaking algo - removes unused code
 - Different dev and prod bundles. For prod - npx parcel build index.html
+
+# Food app
+
+/\*\*
+
+- Header
+- - Logo
+- - Nav Items
+- Body
+- - Search
+- - Restaurant Container
+- - Restaurant cards
+- Footer
+- - Links
+    \*/
+
+# Two types of exports & import
+
+- Default Export/Import - for single thing. No need to use {} while importing
+- Named Export/Import - for multiple things, use {} while importing

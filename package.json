@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "This is react app build with Javascript",
   "scripts": {
+    "start": "parcel index.html",
+    "build-prod": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
