@@ -40,3 +40,7 @@
 
 - Default Export/Import - for single thing. No need to use {} while importing
 - Named Export/Import - for multiple things, use {} while importing
+
+# React hooks
+
+- Normal JS functions
