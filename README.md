@@ -44,3 +44,10 @@
 # React hooks
 
 - Normal JS functions
+- useState()
+- useEffect()
+
+# Routing
+
+- Client Side Routing
+- Server Side Routing
